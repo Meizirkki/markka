@@ -1,0 +1,34 @@
+src/*.exe
+src/markka
+src/markkad
+src/test_markka
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.markka
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+markka-qt
+Markka-Qt.app
+
+# Unit-tests
+Makefile.test
+markka-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
