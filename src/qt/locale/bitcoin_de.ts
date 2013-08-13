@@ -34,7 +34,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Markka developers</source>
+        <source>The Litecoin developers</source>
         <translation>Die Markkaentwickler</translation>
     </message>
 </context>
@@ -1648,7 +1648,7 @@ Adresse: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Markka developers</source>
+        <source>The Litecoin developers</source>
         <translation>Die Markkaentwickler</translation>
     </message>
     <message>
